@@ -1,0 +1,24 @@
+body {
+    background-color: #333333;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+label {
+    color: azure;
+}
+
+.center_div {
+    margin: 0 auto;
+}
+
+.btn-lg {
+    background-color: aqua;
+    color: white;
+}
